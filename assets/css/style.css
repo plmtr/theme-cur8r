@@ -651,7 +651,7 @@ div.pagination {
   box-sizing: border-box;
   display: block;
   clear: both;
-  background-color: #f4f3e9;
+  background-color: @white;
   padding: 30px 35px 30px 35px;
 }
 div.pagination a {
