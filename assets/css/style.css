@@ -22,7 +22,7 @@ body {
   font-family: 'Lato', helvetica, sans-serif;
   height: 100%;
   width: 100%;
-  background-color: #e7e5de;
+  background-color: #ffffff;
   font-size: 100%;
   /* 16px */
   line-height: 1.5;
@@ -100,7 +100,7 @@ div.header {
   overflow: hidden;
   width: 100%;
   display: block;
-  background-color: #ffffff;
+  background-color: #fff;
   color: #000000;
 }
 div.header h1.logo {
@@ -198,7 +198,7 @@ div.mobile-nav ul {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   width: 100%;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 div.mobile-nav ul li {
   border-bottom: 1px solid #464748;
@@ -230,7 +230,7 @@ div.right {
   right: 0;
   width: 20%;
   height: 100%;
-  background-color: #f4f3e9;
+  background-color: #fff;
   -ms-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
